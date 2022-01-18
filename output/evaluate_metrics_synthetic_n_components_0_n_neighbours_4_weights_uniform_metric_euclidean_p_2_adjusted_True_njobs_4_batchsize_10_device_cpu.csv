@@ -1,0 +1,7 @@
+TEST_synthetic_1_cv_{args.dataset}_n_components_{args.n_components}_n_neighbours_{args.n_neighbors}_weights_{args.weights}_metric_{args.metric}_p_{args.p}_adjusted_{args.unadjusted}_njobs_{args.n_jobs}_batchsize_{args.batch_size}_device_{args.device}
+Split,MSE,MAE,r,r2
+1,48.784027090889374,5.702866360634762,-2.3493663478746253e-15,-6.039170041339465e+28
+2,48.7840270908897,5.702866360634782,1.0,0.8124999999999993
+3,0.0,0.0,1.0,1.0
+4,0.0,0.0,1.0,1.0
+5,48.784027090889374,5.702866360634762,1.0,0.8125000000000006

@@ -1,0 +1,13 @@
+{
+    "dataset": "toy",
+    "neighbors": 10,
+    "weights": "distance",
+    "metric": "manhattan",
+    "adjusted": true,
+    "batch_size": 400,
+    "device": "gpu",
+    "MSE": 45.35732125378691,
+    "MAE": 5.374874207174729,
+    "r": 0.7162565108742108,
+    "r2": 0.5100518935252458
+}

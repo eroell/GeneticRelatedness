@@ -1,0 +1,13 @@
+{
+    "dataset": "toy",
+    "neighbors": 10,
+    "weights": "uniform",
+    "metric": "manhattan",
+    "adjusted": true,
+    "batch_size": 400,
+    "device": "gpu",
+    "MSE": 45.19034440544133,
+    "MAE": 5.36992303557007,
+    "r": 0.7174666284904536,
+    "r2": 0.5118555712648172
+}

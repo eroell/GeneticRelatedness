@@ -1,0 +1,21 @@
+### Numeric results from Distance_Calc_Benchmarking_d10000_n100to1000
+
+### Means
+			n = 100	  n = 200	  n = 500 	n = 1000
+'cdist_euclidean'	
+'cdist_minkowski p=2' 	
+'cdist_minkowski p=1/2'
+'own_minkowski p=2'	
+'own_minkowski p=1/2'
+fastdist p = 2
+fastdist p = 1/2
+
+0.0500638	0.217526	1.40671	5.76326
+0.0485414	0.199716	1.3985		5.7548
+1.60058	6.41832	41.0092	163.325
+0.347201	1.59651	13.3748	43.6006
+0.391367	1.74702	11.3633	43.2307
+0.35535	1.44971	9.13476	36.1993
+1.54187	6.20604	39.4257	154.427
+
+ 
